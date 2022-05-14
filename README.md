@@ -11,4 +11,4 @@ To recapitulate the topics adressed by each file :
 - TP5 : Linear estimation : Kalman's correction
 - TP6 : Complete Kalman filter : correction and prediction 
 - TP7 : Kalman's filter application to the localization of a robot
-- BE : Assessment made with my colleague and friend Hadrien BONTEMPS on a SLAM problematic (last pages of the pdf). Report in French provided
+- BE : Assessment made with my colleague and friend Hadrien BONTEMPS on a SLAM problematic (last pages of the pdf)
