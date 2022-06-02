@@ -1,7 +1,7 @@
 # Kalman_Filter_Application_Ex
 
-This repository contains codes personally developped during the Kalman Filter course delivered by Dr F. COMBLET at ENSTA Bretagne.
-The files, entitled TP_1..., TP_2... etc., correspond to the codes answering the questions of the exercices within "ensi_isterobV2.pdf" made by Dr L. JAULIN, also professor at ENSTA Bretagne.
+This repository contains codes personally developped during the Kalman Filter course I had in 2nd year in engineering school.
+The files, entitled TP_1..., TP_2... etc., correspond to the codes answering the questions of the exercices within "ensi_isterobV2.pdf".
 To understand the codes, it can be needed to refer to the corresponding sections and exercices of the pdf.
 To recapitulate the topics adressed by each file :
 - TP1 : Space representation, rotation matrices, Euler angles
